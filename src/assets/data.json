@@ -1,0 +1,24 @@
+{
+  "todolist": [
+    {
+      "todo": "Masak Sayur Asem",
+      "isEdit": false,
+      "id": 1
+    },
+    {
+      "todo": "Membeli Tepung Terigu",
+      "isEdit": false,
+      "id": 2
+    },
+    {
+      "todo": "Potong Rumput Halaman",
+      "isEdit": false,
+      "id": 3
+    },
+    {
+      "todo": "Membersihkan Tempat Tidur",
+      "isEdit": false,
+      "id": 4
+    }
+  ]
+}
